@@ -1,4 +1,4 @@
-# Flask Forms Template Application
+# Jinja3 Flask Forms Template Application
 
 This project is a simple Flask web application that demonstrates handling forms to collect user input and displaying results based on that input. The application includes various features, including a Fro-Yo order form, favorite selections, a secret message sorter, a calculator, and a horoscope personality lookup.
 
